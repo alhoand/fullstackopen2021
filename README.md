@@ -1,2 +1,2 @@
-# fullstackopen2020
-Full Stack Open 2020 course palautusrepositorio
+# fullstackopen2021
+Full Stack Open 2021 course palautusrepositorio
